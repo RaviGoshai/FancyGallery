@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">Picsum Photo App</string>
+    <string name="app_name">Fancy Gallery</string>
     <string name="retry">Retry</string>
     <string name="something_went_wrong">Something went wrong.</string>
     <string name="download_image">Do you want to download the image?</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
     <string name="permission_denied">Permission Denied</string>
-    <string name="ok">Ok</string>
+    <string name="ok">OK</string>
     <string name="rationale">Storage permission is required to save image to phone. Allow permission?</string>
     <string name="image_download_success">Image Downloaded Successfully</string>
 </resources>
